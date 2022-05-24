@@ -72,6 +72,31 @@
     "version": 3
   },
   "project": {
-    "files": []
+    "files": [
+      {
+        "name": "buckBoost.kicad_sch",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 150,
+          "pos_y": 132,
+          "size_x": 1260,
+          "size_y": 713
+        }
+      },
+      {
+        "name": "buckBoost.kicad_pcb",
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 988,
+          "pos_y": 23,
+          "size_x": 932,
+          "size_y": 1011
+        }
+      }
+    ]
   }
 }
